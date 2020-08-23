@@ -1,0 +1,5 @@
+IP="IP do host docker"
+DB_ROOT_PASSWORD="Senha do Banco de dados"
+DB_NAME="NOme do Banco de dados "
+DB_HOST="NOme do container do MYSQL"
+DB_USER="Usuario padrão"
